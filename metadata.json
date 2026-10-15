@@ -1,0 +1,8 @@
+{
+  "name": "TeleStore Pro",
+  "description": "A secure, automated Telegram marketplace for seamless digital product sales, inventory management, and instant payment fulfillment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
